@@ -1,48 +1,49 @@
-# 👋 ¡Hola! Soy Luis Miguel González
+# 👋 ¡Hola! Soy Luis Miguel Gonzalez
 
-### 💻 Diseñador Web & Desarrollador Front-End  
-**WordPress | React | Astro | NextJs | TypeScript | UX/UI Design | Figma**
+### 💻 Full Stack Developer JS & Server Admin
+**JavaScript | Node.js | React | Python | Odoo ERP | Linux | Networking**
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-### 🔹 Front-End
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- React / Vite / Next.js / Astro
-- GSAP, Framer Motion  
-- TailwindCSS / SCSS / Styled Components
+### 🔹 Full Stack Development
+- JavaScript, Node.js, Express.js, Python
+- React.js / API Rest / Git & GitHub
+- Desarrollo de Software & Automatización
+- Integración de Odoo ERP
 
-### 🔹 CMS & Diseño Web
-- WordPress (Elementor, Custom Themes, WooCommerce)   
-- Diseño responsivo y optimización SEO  
-- Integración de APIs y herramientas externas
+### 🔹 Bases de Datos & Sistemas
+- MySQL / PostgreSQL / Firebase
+- Administración de Servidores (Windows Server/Linux)
+- WSL (Windows Subsystem for Linux)
+- Gestión de Datos y Backups
 
-### 🔹 Diseño UX/UI
-- Figma / Adobe XD  
-- Prototipado interactivo  
-- Diseño de interfaces limpias y modernas  
-- Accesibilidad y experiencia de usuario
+### 🔹 Infraestructura & Redes
+- CCNA / Hyper-V / PBX
+- Configuración de Redes y Cableado
+- Soporte Técnico y Mantenimiento
+- Virtualización y Seguridad
 
 ---
 
 ## 🧩 Tecnologías que uso
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-0EA5A2?style=for-the-badge&logo=astro&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 Portafolio: [miguelcode.com](https://miguelcode.com/)  
-- 📧 [**gonzalezmiguela816@gmain.com**](mailto:gonzalezmiguela816@gmain.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel%C3%A1ngelgonz%C3%A1lez770459219)  
+- 📧 [**luis.miguel2303@hotmail.com**](mailto:luis.miguel2303@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luismiguelgj)
+- 📍 Los Alcarrizos, Santo Domingo, R.D.
 
 ---
