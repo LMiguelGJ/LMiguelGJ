@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Contacto
-- 🌐 Portafolio: luiscoder.com
+- 🌐 Portafolio: [luiscoder.com](https://luiscoder.com.com/)
 - 📧 [**luis.miguel2303@hotmail.com**](mailto:luis.miguel2303@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/luismiguelgj)
 - 📍 Los Alcarrizos, Santo Domingo, R.D.
