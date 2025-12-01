@@ -1,6 +1,5 @@
-# 👋 ¡Hola! Soy Luis Miguel Gonzalez
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Luis+Miguel;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
-
+# 👋 ¡Hola! Soy Luis Miguel Gonzalez
 
 ### 💻 Full Stack Developer JS & Server Admin
 **JavaScript | Node.js | React | Python | Odoo ERP | Linux | Networking**
