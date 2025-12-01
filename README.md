@@ -28,11 +28,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
+
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/LMiguelGJ/LMiguelGJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Luis Miguel GJ" />
 </p>
----
 
 ## 📫 Contacto
 - 🌐 Portafolio: [www.luiscoder.com](https://www.luiscoder.com.com/)
