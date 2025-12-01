@@ -39,12 +39,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## Github Stats
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/LMiguelGJ/LMiguelGJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Luis Miguel GJ" />
 </p>
-
 ---
 
 ## 📫 Contacto
