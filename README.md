@@ -33,9 +33,11 @@
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/LMiguelGJ/LMiguelGJ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Luis Miguel GJ" />
 </p>
 ---
+
 ## 📫 Contacto
 - 🌐 Portafolio: [www.luiscoder.com](https://www.luiscoder.com.com/)
 - 📧 [**luis.miguel2303@hotmail.com**](mailto:luis.miguel2303@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/luismiguelgj)
 - 📍 Los Alcarrizos, Santo Domingo, R.D.
+
 ---
